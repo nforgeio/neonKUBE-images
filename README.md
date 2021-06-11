@@ -1,2 +1,2 @@
 # neonKUBE-images
-Holds neonKUBE node image releases
+Holds neonKUBE node image releases.
